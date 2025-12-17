@@ -1,0 +1,9 @@
+FFmpeg Licensing Information
+----------------------------
+
+This product includes FFmpeg (ffmpeg.exe, ffprobe.exe), which is licensed under
+the LGPL/GPL.
+
+For more details, see: https://ffmpeg.org/legal.html
+
+Please comply with FFmpeg's licensing terms when using this application.
