@@ -4,7 +4,7 @@
 VideoConverterMP4 は、ドラッグ＆ドロップするだけで動画を MP4 に変換する Windows 専用ツールです。
 
 - MTS は自動結合して MP4 に変換
-- M2TS は個別変換後に結合
+- M2TS は MP4 に変換
 - その他形式も MP4 に変換
 - 元ファイル名は保持（Premiere Pro 互換）
 
@@ -33,3 +33,4 @@ SONY製カメラで撮影された MTS/M2TS ファイルを Adobe Premiere Pro �
 2. 必要ライブラリをインストール
    ```bash
    pip install -r requirements.txt
+
