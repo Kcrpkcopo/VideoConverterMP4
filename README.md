@@ -9,7 +9,7 @@ VideoConverterMP4 は、ドラッグ＆ドロップするだけで動画を MP4 
 - 元ファイル名は保持（Premiere Pro 互換）
 
 ### 開発の背景
-SONY製カメラで撮影された MTS/M2TS ファイルを Adobe Premiere Pro に読み込む際、  
+SONY製カメラで撮影された MTS ファイルを Adobe Premiere Pro に読み込む際、  
 音声が正しく認識されずノイズだけになる問題を回避することを目的としています。
 
 ---
@@ -33,4 +33,5 @@ SONY製カメラで撮影された MTS/M2TS ファイルを Adobe Premiere Pro �
 2. 必要ライブラリをインストール
    ```bash
    pip install -r requirements.txt
+
 
