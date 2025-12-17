@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+VideoConverterMP4.exe filter=lfs diff=lfs merge=lfs -text
